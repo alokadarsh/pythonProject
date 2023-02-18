@@ -1,6 +1,6 @@
 a=6
 b=8
-def test():
+def test(a,b):
     sum=a+b
     print(sum)
 test()
